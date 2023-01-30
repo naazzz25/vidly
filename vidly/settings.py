@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-f1&ga128=ohax42_!itchokb$f@5*d1%2w(j)$a^$xkhxjw=o#
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'f27a3616-c60e-4bba-a06f-25a47e8c3cea'
+    '	zaryakovlev@yandex.ru'
     ]
 
 
